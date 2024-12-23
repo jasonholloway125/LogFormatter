@@ -3,13 +3,6 @@
     "{logformatter@seamlessintelligence.com.au}": {
       "updates": [
         {
-          "version": "2.0",
-          "update_link": "https://raw.githubusercontent.com/jasonholloway125/LogFormatter/main/updates/c64cc41d395c457c951e-2.0.xpi",
-          "applications": {
-            "gecko": { "strict_min_version": "58.0" }
-          }
-        },
-        {
           "version": "2.1",
           "update_link": "https://raw.githubusercontent.com/jasonholloway125/LogFormatter/main/updates/c64cc41d395c457c951e-2.1.xpi",
           "applications": {
