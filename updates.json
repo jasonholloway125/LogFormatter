@@ -1,6 +1,6 @@
 {
   "addons": {
-    "logformatter@seamlessintelligence.com.au": {
+    "{logformatter@seamlessintelligence.com.au}": {
       "updates": [
         {
           "version": "2.1",
