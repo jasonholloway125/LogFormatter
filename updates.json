@@ -4,11 +4,11 @@
       "updates": [
         {
           "version": "2.0",
-          "update_link": "https://raw.githubusercontent.com/jasonholloway125/LogFormatter.github.io/main/c64cc41d395c457c951e-2.0.xpi"
+          "update_link": "https://raw.githubusercontent.com/jasonholloway125/LogFormatter/main/updates/c64cc41d395c457c951e-2.0.xpi"
         },
         {
           "version": "2.1",
-          "update_link": "http://example.com/addon-0.2.xpi",
+          "update_link": "https://raw.githubusercontent.com/jasonholloway125/LogFormatter/main/updates/c64cc41d395c457c951e-2.1.xpi",
         },
       ]
     }
