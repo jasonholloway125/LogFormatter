@@ -4,7 +4,7 @@
       "updates": [
         {
           "version": "2.3",
-          "update_link": "https://raw.githubusercontent.com/jasonholloway125/LogFormatter/main/updates/c64cc41d395c457c951e-2.3.xpi",
+          "update_link": "https://raw.githubusercontent.com/jasonholloway125/LogFormatter/main/updates/c64cc41d395c457c951e-2.4.xpi",
           "applications": {
             "gecko": { "strict_min_version": "58.0" }
           }
